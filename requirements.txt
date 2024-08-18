@@ -151,8 +151,8 @@ tbb==2021.13.0
 tenacity==8.5.0
 tensorboard==2.17.0
 tensorboard-data-server==0.7.2
-tensorflow==2.12.1
-tensorflow-intel==2.12.0
+tensorflow==2.9.0
+tensorflow-intel==2.9.0
 termcolor==2.4.0
 tesseract==0.1.3
 threadpoolctl==3.5.0
